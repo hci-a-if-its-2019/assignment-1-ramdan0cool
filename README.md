@@ -1,8 +1,16 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+FanFiction.net is an archive site for stories, mainly about fan fictions. anFiction.Net is the largest and second most popular fan fiction website in the world, coming second in popularity to Archive of Our Own in Alexa rankings. It has over 10 million registered users and hosts stories in over 40 languages.
+This site mainly have nine categories: Anime/Manga, Books, Cartoons, Miscellaneous, Games, Comics, Movies, Plays/Musicals, and TV Shows. Users who complete the free registration process can submit their fan fiction, maintain a user profile, review other stories, apply for a beta reader position, contact each other via private messages, and maintain a list of favorite stories and authors. There is a forum and a community should the user wished to participate.
+(source: Wikipedia)
+
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+1. Login to FanFiction.net using social media account (Assumption: the user have at least one social media account).
+2. Choose one category and read one story of that category. (The user only need to open a story).
+3. Open profile page.
+4. Edit user profile.
+5. Publish a story. (If the user do not have a story to publish, it is enough that the user is capable to save their story).
+
 ## User Description
 Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
 ## Transcript
