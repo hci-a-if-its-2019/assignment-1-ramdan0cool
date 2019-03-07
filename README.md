@@ -33,11 +33,11 @@ B = User
 (The user presses the login button, the system shows a login page, then the user clicks a Google account button. The system shows a Google account page, then the user presses the account they want to use to log in. The system then shows the preferences page.)
 
 5. A = Itu pertama kali kamu buka?
-6. B = Enggak, ini waktu aku tekan email, kan udah milih pakai Google kan, langsung muncul ini. (Merujuk ke halaman sistem yang menampilkan preferences). Aku sendiri tidak terlalu mengerti other itu buat apa.
+6. B = Enggak, ini waktu aku tekan email, kan udah milih pakai Google kan, langsung muncul ini. (Referring to the preferences page). Aku sendiri tidak terlalu mengerti other itu buat apa.
 7. A = Oke, bagian mana tadi yang kamu tidak mengerti?
 8. B = Jadi tadi dibingungkan dengan akses pertama kali, setelah mendaftar.
 
-(Note: Although the user already had a social media account, it's the user's first time logging in using their social media account, and the system treatt this as a first signing up)
+(Note: Although the user already had a social media account, it's the user's first time logging in using their social media account, and the system treats this as a first signing up)
 
 9. A = Buat yang kedua, pilih salah satu kategori kemudian buka salah satu story dari kategori itu. Terserah kalau cuma buka ya buka aja.
 10.B = Iya. Aku bakal buka cerita yang pernah aku buka. Tunggu, dimana searchnya?
@@ -45,6 +45,20 @@ B = User
 (The user search for the search button)(The puns!)
 
 11. B = Oke, ini.
+
+(The user selects a story and the system shows the story page.)
+
+12. A = Kemudian yang ketiga memilih profile page.
+13. B = Profile page, oke.
+
+(The user presses the link with their name (account page), then the system shows the account page.)
+
+14. B = Okay, dimana ini. (Referring to the account page, the user was confused that they can't find the profile page.)
+
+(The user was more confused by the layout design.)
+
+15. A = Jadi tidak ada profile page ini?
+
 ```
 ## Models and Annotations
 ### Artifact Model
