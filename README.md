@@ -58,7 +58,20 @@ B = User
 (The user was more confused by the layout design.)
 
 15. A = Jadi tidak ada profile page ini?
+16. B = Tidak tahu.
+17. B = Tekan bio, nah ini dia.
 
+(The user reload the page and then presses the Bio link. Then the system shows the profile page)
+
+18. A = Oke, buat yang keempat, edit profile.
+19. B = Tidak bisa. Jadi, buat pengguna baru harus nunggu satu hari sebelum bisa mengedit profile.
+20. A = Oh ya?
+21. B = Jadi sekarang aku tidak bisa apa-apa.
+
+(Note: There is an oversight on my part regarding this part of the system. For new users, the system locked their access to edit their profile and publish stories, so we cannot check the last two tasks. However, I did not even know about this mechanic, even though I was following through with the user's input because the system did not notify us about this mechanic beforehand.)
+
+22. A = Berarti buat tugas kelima tidak bisa juga, ya.
+23. B = Tidak bisa.
 ```
 ## Models and Annotations
 ### Artifact Model
