@@ -17,6 +17,7 @@ This site mainly have nine categories: Anime/Manga, Books, Cartoons, Miscellaneo
 3. Preferred using mobile over desktop for casual browsing.
 4. User usually access internet for 18 hours on daily basis. (Note: Recommended for rehab)
 5. User first access the site since middle school.
+6. User never publish a story on the site, or even have an account to log into.
 
 ## Transcript
 ```text
