@@ -12,10 +12,10 @@ This site mainly have nine categories: Anime/Manga, Books, Cartoons, Miscellaneo
 5. Publish a story. (If the user do not have a story to publish, it is enough that the user is capable to save their story).
 
 ## User Description
-1. User is 20 years old woman of Indonesian origin.
+1. User is a 20 years old woman of Indonesian origin.
 2. User is an undergraduate student, currently studying in ITS.
 3. Preferred using mobile over desktop for casual browsing.
-4. User usually access internet for 18 hours on daily basis. (Note: Recommended for rehab)
+4. User frequently access internet for 18 hours on daily basis. (Note: Recommended for rehab)
 5. User first access the site since middle school.
 6. User never publish a story on the site, or even have an account to log into.
 
