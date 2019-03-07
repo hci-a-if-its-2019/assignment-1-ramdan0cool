@@ -75,7 +75,8 @@ B = User
 ```
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model and Annotation](https://github.com/hci-a-if-its-2019/assignment-1-ramdan0cool/blob/master/Images/artifact1.png)
+![Artifact Model and Annotation](https://github.com/hci-a-if-its-2019/assignment-1-ramdan0cool/blob/master/Images/artifact2.png)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
