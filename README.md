@@ -78,9 +78,9 @@ B = User
 ![Artifact Model and Annotation](https://github.com/hci-a-if-its-2019/assignment-1-ramdan0cool/blob/master/Images/artifact1.png)
 ![Artifact Model and Annotation](https://github.com/hci-a-if-its-2019/assignment-1-ramdan0cool/blob/master/Images/artifact2.png)
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation](https://github.com/hci-a-if-its-2019/assignment-1-ramdan0cool/blob/master/Images/Flow.png)
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Cultural Model and Annotation](https://github.com/hci-a-if-its-2019/assignment-1-ramdan0cool/blob/master/Images/Social.png)
 ## Do's and Don't's
 Do:
 1. Make a clear notification that the system requires 24 hours before the user can publish a story.
