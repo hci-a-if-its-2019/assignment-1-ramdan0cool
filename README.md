@@ -89,3 +89,11 @@ Do:
 
 Dont:
 1. Using small font
+
+# Remarks
+> * Thanks for providing us a comprehensive report by completing all the parts in this assignment.
+> * The `Do's` section seems too general and a bit confusing. You might need to specify your methods to solve the UI problems.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 13               | 0               | 88                 | 80,5       | 86,5  |
